@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Perizinan Guru & Pegawai - SDI Abu Hurairah Lahat",
+  "description": "Aplikasi Sistem Perizinan Terpadu untuk Dewan Guru dan Pegawai SDI Abu Hurairah Lahat (Yayasan Al Afwa Wal Afiah Lahat) berbasis Database PostgreSQL dan REST API Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
